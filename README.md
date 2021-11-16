@@ -1,1 +1,1 @@
-# resume
+# hosting resume for personal website
